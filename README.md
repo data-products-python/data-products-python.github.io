@@ -14,5 +14,8 @@
 
 ### [Storytelling with data](https://github.com/data-products-python/storytelling-data/blob/master/README.md)  
 
+### [Getting into the Cloud](https://github.com/data-products-python/data-products-cloud-python/blob/master/README.md)  
+
+
 
 
